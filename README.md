@@ -9,7 +9,7 @@ Réalisé dans le cadre du mini-projet hackathon **TI616 Numérique Durable** �
 
 ## 🌐 Site en ligne
 
-**[https://royta-creator.github.io/velovert/](https://royta-creator.github.io/velovert/)**
+**[https://royta-creator.github.io/velovert/](https://royta-creator.github.io/VeloR-pare/)**
 
 ---
 
