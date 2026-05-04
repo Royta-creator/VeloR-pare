@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/27376803/README.1.md)
 # VéloRépare — Association de Réparation de Vélo
 
 > **Réparer, ne pas jeter.**
