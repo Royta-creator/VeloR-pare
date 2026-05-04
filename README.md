@@ -60,7 +60,7 @@ Aucune dépendance — le site est un fichier HTML statique pur.
 
 ### Cloner le dépôt
 ```bash
-git clone https://github.com/Royta-creator/velovert.git
+git clone https://github.com/Royta-creator/VeloR-pare.git
 cd velovert
 ```
 
