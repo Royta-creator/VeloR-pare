@@ -1,1 +1,1 @@
-# velovert
+VéloVert est une assocation permettant à chacun de réparer ou donner une nouvelle vie à son vélo afin de promouvoir les mobilités douces en ville, ainsi que le recyclage, le partage de connaissance etc.
