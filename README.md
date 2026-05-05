@@ -107,7 +107,7 @@ VeloR-pare/
 
 ## 🌿 Principes Green IT appliqués
 
-- **Zéro image externe** — toutes les illustrations sont en SVG inline
+- **Images légères** — toutes les images sont au format webp
 - **Zéro framework JS** — JavaScript vanilla uniquement, pas de npm
 - **Zéro requête API** — données persistées en localStorage côté client
 - **Animations sobres** — CSS uniquement, aucune librairie d'animation
