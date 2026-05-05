@@ -94,8 +94,8 @@ VeloR-pare/
 ├── empreinte carbone/
 │   ├── empreinte carbone 1.png # Capture EcoIndex
 │   └── empreinte carbone 2.png # Capture PageSpeed Insights
-└── livrables/
-    └── Livrable1_VéloRépare_TI616.docx  # Livrable 1 du projet
+├── livrables/
+│   └── Livrable1_VéloRépare_TI616.docx  # Livrable 1 du projet
 ├── photos/
 │   ├── hippo.webp
 │   ├── roy.webp
